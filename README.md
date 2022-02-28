@@ -10,6 +10,9 @@ factors
 6. prior state-of-art
 7. future considerations
 8. most new languages dont have this stuff... 
-9. who i can get to help me
-10. how much time we have.. 
-11. amount of gh and tooling overhead
+9. many libraries exists
+10. artefact considerations
+11. code efficiency
+12. who i can get to help me
+13. how much time we have.. 
+14. amount of gh and tooling overhead
