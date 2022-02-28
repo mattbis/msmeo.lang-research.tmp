@@ -1,6 +1,9 @@
 # msmeo.lang-research.tmp
 .. time to decide properly 
 
+0. going to start with some explorations I feel... since I need this tool.. must I am very undecided on how much
+additional dev work I wanna give myself... and maybe keeping to a scripting only type solutions.
+
 factors
 1. numbers of coders 
 2. my expertise, what i will take on or need help with > at first mostly all of it.. depending on the complexity.. 
