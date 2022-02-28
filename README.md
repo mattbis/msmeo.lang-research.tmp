@@ -2,7 +2,7 @@
 .. time to decide properly 
 
 0. going to start with some explorations I feel... since I need this tool.. must I am very undecided on how much
-additional dev work I wanna give myself... and maybe keeping to a scripting only type solutions.
+additional dev work I wanna give myself... and maybe keeping to a scripting only type solutions. ( since we can do some quite interesting computing now with parallel things ) 
 
 factors
 1. numbers of coders 
