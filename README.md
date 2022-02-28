@@ -3,7 +3,7 @@
 
 factors
 1. numbers of coders 
-2. my expertise
+2. my expertise, what i will take on or need help with > at first mostly all of it.. depending on the complexity.. 
 3. what i like in systems or not
 4. the deps
 5. must do certain difficult stuff: negotiation is not possible
