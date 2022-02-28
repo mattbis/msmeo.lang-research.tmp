@@ -16,3 +16,5 @@ factors
 12. who i can get to help me
 13. how much time we have.. 
 14. amount of gh and tooling overhead
+15. avoiding evil software patents
+16. attracting proper experts..
