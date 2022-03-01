@@ -23,3 +23,10 @@ factors
 14. amount of gh and tooling overhead
 15. avoiding evil software patents
 16. attracting proper experts..
+
+ probably:
+ 
+ go - tooling, config
+ rs - app build, manifest, dep imp, bev, os
+ c - maybe the base layer with cosmo
+ js - how you interact with e during operation in bli editor and change something when playing around.. maybe.. probably quickjs from cosmo
